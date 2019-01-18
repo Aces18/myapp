@@ -7,6 +7,7 @@
         <input type="password" name="password" v-model="password" placeholder="password"/>
         <br>
         <button>Register</button>
+        <button>Setup</button>
     </div>
 </template>
 
