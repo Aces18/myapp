@@ -8,14 +8,8 @@ export default new Router({
   routes: [
     {
       path: '/',
-<<<<<<< HEAD
-      name: 'HelloWorld',
-      component: HelloWorld
-    },
-=======
       name: 'Home',
       component: Home
     }
->>>>>>> origin/master
   ]
 })
